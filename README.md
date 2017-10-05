@@ -1,6 +1,4 @@
-# mhmdmongy.github.io
-
-Coming Soon 
+#Muhammad Mongy Web Profile 
 
 
 
@@ -17,4 +15,5 @@ Coming Soon
 
 
 
-CopyRights reserved ©  Muhamamd Mongy 
+
+CopyRights reserved © M.Mongy 
